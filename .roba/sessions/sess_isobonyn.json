@@ -1,0 +1,26 @@
+{
+  "sessionId": "sess_isobonyn",
+  "fullHistory": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi! I'm Roba Copilot, your MuJoCo robotics engineer. How can I help you today? Whether it's building or editing a robot model, tuning actuators, fixing simulation issues, or answering MuJoCo/MJCF questions — I'm ready to help! 🤖"
+    }
+  ],
+  "agentHistory": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi! I'm Roba Copilot, your MuJoCo robotics engineer. How can I help you today? Whether it's building or editing a robot model, tuning actuators, fixing simulation issues, or answering MuJoCo/MJCF questions — I'm ready to help! 🤖"
+    }
+  ],
+  "compressionCount": 0,
+  "workspaceRoot": "/home/robacrh/roba/roba-laravel/repos/faridhossainrd/my-mujoco-sim-20260525-171654-1779707822",
+  "savedAt": 1779709368374
+}
