@@ -1,0 +1,26 @@
+{
+  "sessionId": "sess_vbcmuthe",
+  "fullHistory": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "\nHey! Roba Studio is ready — what are we building?"
+    }
+  ],
+  "agentHistory": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "\nHey! Roba Studio is ready — what are we building?"
+    }
+  ],
+  "compressionCount": 0,
+  "workspaceRoot": "/home/robacrh/roba/roba-laravel/repos/faridhossainrd/my-mujoco-sim-20260525-171654-1779707822",
+  "savedAt": 1779707856823
+}
